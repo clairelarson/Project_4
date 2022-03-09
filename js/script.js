@@ -101,6 +101,7 @@ function printQuote(object) {
 
 /***
  Change background color function
+ background = new background color
 ***/
 
 function getColorNumber() {
